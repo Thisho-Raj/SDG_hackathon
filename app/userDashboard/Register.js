@@ -42,7 +42,7 @@ export default function SignupForm() {
                 transition={{ duration: 0.5 }}
             >
                 <div className="flex items-center justify-between mb-6">
-                    <div className="text-white text-lg font-semibold">Anywhere App</div>
+                    <div className="text-white text-lg font-semibold">Web name</div>
                     <nav>
                         <a className="text-gray-400 hover:text-white" href="#">Home</a>
                     </nav>
