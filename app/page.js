@@ -1,12 +1,9 @@
-import Image from "next/image";
-import page from "user"
+import Login from "./userDashboard/login"; // Correct import path
 
 export default function Home() {
   return (
     <div>
-      
-      <userDashboard />
-
+      <Login />
     </div>
   );
 }
