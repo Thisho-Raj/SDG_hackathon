@@ -1,9 +1,9 @@
-import Login from "./userDashboard/login"; // Correct import path
+import Login from "./userDashboard/Register"; // Correct import path
 
 export default function Home() {
   return (
     <div>
-      <Login />
+      <Login/>
     </div>
   );
 }
